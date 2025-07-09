@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @boriszugic. I am a second-year Software Engineering student at Carleton University. 
-- 👀 I’m interested in all things related to Computer Science. Specifically, my concentration is software development and my preferred programming language is C. 
-- 💞️ I’m looking to collaborate on variety of projects (small or big) to gain real-world experience.
+# 👋 Hi, I’m Boris
 
-About me: I am a highly productive person that loves learning new material of interest. When I am not learning computer science, I like to exercise in the gym, play tennis or soccer, or read books.
+I'm a **DevOps** enthusiast with a deep love for **Linux** 🐧 and **Networking** - this comes from my passion for understanding how things work under the hood.
 
-- 📫 You can reach me by email @boriszugic123@gmail.com
+I write a bi-weekly newsletter called **[3 Things DevOps](https://www.linkedin.com/newsletters/7315967826320588801/)** where I share three DevOps-related tips, tricks, and sometimes full projects.
 
-<!---
-boriszugic/boriszugic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💡 Who I am
+
+I’m passionate about what I do and always looking to connect, share knowledge, and grow — both in tech and in life.
+Outside of DevOps, I’m into sports, the gym, and all things self-improvement.
+
+---
+
+## 🤝 Let’s Connect
+ 
+Feel free to reach out or follow me on [LinkedIn](https://www.linkedin.com/in/boriszugic). I’m always open to connect with like-minded people :)
