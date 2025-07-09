@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Boris
 
-I'm a **DevOps** enthusiast with a deep love for **Linux** 🐧 and **Networking** - this comes from my passion for understanding how things work under the hood.
+I'm a **DevOps** enthusiast with a deep love for **Linux** 🐧 and **Networking** 🌐 - this comes from my passion for understanding how things work under the hood.
 
 I write a bi-weekly newsletter called **[3 Things DevOps](https://www.linkedin.com/newsletters/7315967826320588801/)** where I share three DevOps-related tips, tricks, and sometimes full projects.
 
